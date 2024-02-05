@@ -1,0 +1,17 @@
+.params{
+    color:white !important;
+    text-align: center;
+    font-weight: 900;
+    
+}
+
+.paramsss{
+    color:#fc0c8c !important;
+    text-align: center;
+} 
+
+.cls{
+    height:500px;
+    width:100%;
+    background:rgb(251, 250, 250,0.2);
+}

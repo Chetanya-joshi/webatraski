@@ -1,0 +1,75 @@
+.headingss{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+@media(max-width:450px){
+    .mainbox{
+        flex-direction: column;
+    }
+    .leftbox{
+        width:350px !important;
+    }
+    .rightbox{
+        width:350px !important;
+    }
+    .formbox{
+        width:100% !important;
+    }
+
+    .cls{
+        width:100% !important;
+    }
+    .clsm{
+        width:100% !important;
+    }
+    .imagform{
+        width:100% !important;
+    }
+    .mapss{
+        width:100% !important;
+    }
+    .karnaha{
+        flex-direction:column;
+    }
+    .m249{
+        text-align: center;
+    }
+}
+
+
+@media(max-width:830px){
+   
+        
+        .leftbox{
+            width:350px !important;
+        }
+        .rightbox{
+            width:350px !important;
+        }
+        .formbox{
+            width:100% !important;
+        }
+    
+        .cls{
+            width:100% !important;
+        }
+        .clsm{
+            width:100% !important;
+        }
+        .imagform{
+            width:90%;
+            height:210px;
+        }
+        .mapss{
+            width:100% !important;
+        }
+    }
+
+    @media(max-width:1250px){
+        .formbox{
+            width:95% !important;
+        }
+    }
+    
+
+

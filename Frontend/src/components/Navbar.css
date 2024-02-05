@@ -1,0 +1,27 @@
+@media screen and (max-width:400px){
+    .dropdown-menu{
+        width:480px !important;
+    }
+
+    .dropdown-item{
+        font-size:15px;  
+    }
+
+    .adjust{
+        display:none;
+    }
+
+    .adjust1{
+        margin-left:40px !important;
+    }
+
+    
+    
+
+}
+
+@media screen and (max-width:750px){
+    .navbar-toggler{
+        width:100px;
+    }
+}
